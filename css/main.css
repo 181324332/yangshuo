@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+    font-size:100%;
+
+}
+h3{
+	font-weight: bold;
+	color: #F08D18;
+}
+.spacing{
+    margin: 10px auto;
+    width:1140px;
+}
+li{ list-style: none;}
+.fl{float: left;}
+.rl{float: right;}
+a {
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+    color:#4B4A48;
+}
